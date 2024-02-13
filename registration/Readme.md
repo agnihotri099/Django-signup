@@ -11,8 +11,8 @@ This Django application provides user authentication functionalities including l
 
 ## Installation
 1. Clone the repository:
-- git clone <repository-url>
-- cd django-login-signup-registration-app
+- git clone https://github.com/agnihotri099/Django-signup
+- cd registration
 
 
 2. Run migrations:
